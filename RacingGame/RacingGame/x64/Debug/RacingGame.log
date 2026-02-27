@@ -1,0 +1,5 @@
+﻿  RacingGame.cpp
+C:\HVL - Informasjonsteknologi\var2026\DAT154\VisualStudio\RacingGame\RacingGame\RacingGame.cpp(359,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\HVL - Informasjonsteknologi\var2026\DAT154\VisualStudio\RacingGame\RacingGame\RacingGame.cpp(375,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\HVL - Informasjonsteknologi\var2026\DAT154\VisualStudio\RacingGame\RacingGame\RacingGame.cpp(616,1): warning C4715: 'WndProc': not all control paths return a value
+  RacingGame.vcxproj -> C:\HVL - Informasjonsteknologi\var2026\DAT154\VisualStudio\RacingGame\x64\Debug\RacingGame.exe
